@@ -1,3 +1,7 @@
+# migrations
+migrations
+.flaskenv
+
 # Logs
 logs
 *.log
